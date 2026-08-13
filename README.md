@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-* 💻 Building projects with the **MERN Stack**
+* 💻 Building with the **MERN Stack**
 * 🧠 Practicing **DSA in C++**
 * 🤖 Exploring **Generative AI**
 * ☁️ Learning **AWS & DevOps**
@@ -53,28 +53,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Amrittt22&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amrittt22&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎵 Spotify Clone
-
-A responsive Spotify-inspired music player built using HTML, CSS and JavaScript.
-
-**Tech:** HTML • CSS • JavaScript
-
-### 🌐 MERN Applications
-
-Building full-stack web applications using:
-
-**MongoDB • Express.js • React.js • Node.js**
-
-### 🧠 DSA Solutions
-
-My collection of Data Structures & Algorithms problems in C++.
-
-**Topics:** Arrays • Binary Search • Strings • Linked Lists • Trees • Graphs • Dynamic Programming
 
 ---
 
