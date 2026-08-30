@@ -13,7 +13,7 @@
 * 💻 Building with the **MERN Stack**
 * 🧠 Practicing **DSA in C++**
 * 🤖 Exploring **Generative AI**
-* ☁️ Learning **AWS & DevOps**
+* ☁️ Learning **DevOps**
 * 🎯 Preparing for software development placements
 * 🚀 Interested in building real-world applications
 
