@@ -20,11 +20,10 @@
 ---
 
 ## 🛠️ Tech Stack
-
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -42,7 +41,7 @@
 ### ☁️ Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
