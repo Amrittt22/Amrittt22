@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **Full Stack Developer** passionate about building modern, scalable web applications. I work with the **MERN Stack** and **Next.js**, while continuously improving my **DSA skills in C++**. I'm also exploring **Generative AI and DevOps** to expand my development skills and build more impactful real-world projects. 🚀<br>
+I'm a **Full Stack Developer** passionate about building modern, scalable web applications. I work with the **MERN Stack** while continuously improving my **DSA skills in C++**. I'm also exploring **Generative AI and DevOps** to expand my development skills and build more impactful real-world projects. 🚀<br>
 
 
 ## 🌐 Socials:
