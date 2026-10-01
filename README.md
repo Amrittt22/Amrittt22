@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **Full Stack Developer** passionate about building modern, scalable web applications. I work with the **MERN Stack** while continuously improving my **DSA skills in C++**. I'm also exploring **Generative AI and DevOps** to expand my development skills and build more impactful real-world projects. 🚀<br>
+I'm a **Full Stack Developer** passionate about building modern, scalable web applications. I work with the **MERN Stack** while continuously improving my **DSA skills in C++**. I'm also exploring **AI and DevOps** to expand my development skills and build more impactful real-world projects. 🚀<br>
 
 
 ## 🌐 Socials:
@@ -8,6 +8,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -17,19 +18,13 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
+
 # 📊 GitHub Stats
 
 <p align="center">
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Amrittt_22&theme=gruvbox&hide_border=false" height="180"/> </p>
-
-</p>
-
-
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amrittt_22&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://streak-stats.demolab.com/?user=Amrittt_22&theme=gruvbox&hide_border=false" height="180"/>
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
