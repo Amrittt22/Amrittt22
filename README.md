@@ -19,7 +19,7 @@ I'm a **Full Stack Developer** passionate about building modern, scalable web ap
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-%232D3748.svg?style=for-the-badge&logo=Prisma&logoColor=white)
 
 # 📊 GitHub Stats
 
