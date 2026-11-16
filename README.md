@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **Full Stack Developer** passionate about building modern, scalable web applications. I work with the **MERN Stack** while continuously improving my **DSA skills in C++**. I'm also exploring **AI and DevOps** to expand my development skills and build more impactful real-world projects.
+I'm a **Full Stack Developer** passionate about building scalable, high-performance applications and solving real-world engineering problems. I work with **TypeScript, React, Node.js, Express, PostgreSQL, Redis, and Prisma**, while strengthening my **Data Structures & Algorithms skills in C++**. I'm particularly interested in **Backend Engineering, System Design, and Database Internals**, and currently exploring **AI and DevOps** to build efficient, reliable, and impactful software.
 
 
 ## 🌐 Socials:
